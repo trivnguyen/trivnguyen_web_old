@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/</link>
+    <description>Recent content on Tri V Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 -0400</lastBuildDate>
+    
+	    <atom:link href="https://trivnguyen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepClean - A GW noise regression network</title>
+      <link>https://trivnguyen.github.io/project/deepclean/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/project/deepclean/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;deepclean.pdf&#34; target=&#34;_blank&#34;&gt;Deep Clean&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my project for LIGO SURF Summer 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: We apply long short-term memory (LSTM) neural networks as a time-series regression analysis technique to filter instrumental noises from gravitational-wave detectors at the Laser Interferometer Gravitational-Wave Observatory (LIGO). Unlike traditional neural networks, LSTM networks store and use information from their past inputs, thus robust in handling sequential data like gravitational-wave signals. Once trained, an LSTM network should be able to learn, predict, and subtract both the linear and non-linear noise coupling mechanisms, given there exist a set of witness channels monitoring these noises. The result would improve LIGO&amp;rsquo;s sensitivity, most greatly at the low-frequency limit 20-100 Hz where noise features are expected to be easier to learn, and allow the detection of gravitational-wave sources currently below the noise floor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KITCAT</title>
+      <link>https://trivnguyen.github.io/project/kitcat/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/project/kitcat/</guid>
+      <description>&lt;p&gt;Algorithm described in: &lt;a href=&#34;kitcat.pdf&#34; target=&#34;_blank&#34;&gt;A Computationally Efficient Approach for Calculating Galaxy Two-Point Correlations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;KITCAT v2.0.0: &lt;a href=&#34;https://github.com/DESI-UR/KITCAT&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt;, &lt;a href=&#34;https://doi.org/10.5281/zenodo.2640917&#34; target=&#34;_blank&#34;&gt;Zenodo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;KITCAT, or the Kd-tree Implementation for Two-point Correlation AlgoriThm, is&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

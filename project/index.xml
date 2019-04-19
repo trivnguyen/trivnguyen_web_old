@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/project/</link>
+    <description>Recent content in Projects on Tri V Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://trivnguyen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepClean - A GW noise regression network</title>
+      <link>https://trivnguyen.github.io/project/deepclean/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/project/deepclean/</guid>
+      <description>Using machine learning to learn and subtract non-linear noise in LIGO detectors.</description>
+    </item>
+    
+    <item>
+      <title>KITCAT</title>
+      <link>https://trivnguyen.github.io/project/kitcat/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/project/kitcat/</guid>
+      <description>Calculating the spatial two-point correlation function using k-d tree algorithm.</description>
+    </item>
+    
+  </channel>
+</rss>

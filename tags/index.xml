@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/tags/</link>
+    <description>Recent content in Tags on Tri V Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://trivnguyen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithm</title>
+      <link>https://trivnguyen.github.io/tags/algorithm/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baryon Acoustic Oscillation</title>
+      <link>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cosmology</title>
+      <link>https://trivnguyen.github.io/tags/cosmology/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/cosmology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DESI</title>
+      <link>https://trivnguyen.github.io/tags/desi/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/desi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detector Characterization</title>
+      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Waves</title>
+      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIGO</title>
+      <link>https://trivnguyen.github.io/tags/ligo/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/ligo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSTM</title>
+      <link>https://trivnguyen.github.io/tags/lstm/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Network</title>
+      <link>https://trivnguyen.github.io/tags/neural-network/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two-point Correlation Function</title>
+      <link>https://trivnguyen.github.io/tags/two-point-correlation-function/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/two-point-correlation-function/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
