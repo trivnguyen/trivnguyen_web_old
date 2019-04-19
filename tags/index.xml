@@ -7,10 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 13:14:25 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Axion</title>
+      <link>https://trivnguyen.github.io/tags/axion/</link>
+      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/axion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Statistics</title>
+      <link>https://trivnguyen.github.io/tags/bayesian-statistics/</link>
+      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/bayesian-statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-energy Astrophysics</title>
+      <link>https://trivnguyen.github.io/tags/high-energy-astrophysics/</link>
+      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/high-energy-astrophysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IceCube</title>
+      <link>https://trivnguyen.github.io/tags/icecube/</link>
+      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/icecube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutrino</title>
+      <link>https://trivnguyen.github.io/tags/neutrino/</link>
+      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/neutrino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supernova</title>
+      <link>https://trivnguyen.github.io/tags/supernova/</link>
+      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/supernova/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Algorithm</title>
