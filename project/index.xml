@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>DeepClean - A GW noise regression network</title>
+      <title>DeepClean - A Noise Regression Framework</title>
       <link>https://trivnguyen.github.io/project/deepclean/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/project/deepclean/</guid>
-      <description>Using machine learning to learn and subtract non-linear noise in LIGO detectors.</description>
+      <description>Using LSTM network to learn and subtract non-linear noise in LIGO detectors.</description>
     </item>
     
     <item>
