@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>https://trivnguyen.github.io/tags/boss/</loc>
+    <lastmod>2019-04-16T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</loc>
     <lastmod>2019-04-16T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -74,6 +80,12 @@
   
   <url>
     <loc>https://trivnguyen.github.io/project/</loc>
+    <lastmod>2019-04-16T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/tags/sdss/</loc>
     <lastmod>2019-04-16T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>

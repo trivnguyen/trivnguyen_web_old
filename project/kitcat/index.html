@@ -597,11 +597,30 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>Algorithm described in: <a href="kitcat.pdf" target="_blank">A Computationally Efficient Approach for Calculating Galaxy Two-Point Correlations</a></p>
+      <p>The early universe consists of a hot and dense photon-baryon plasma. Small density fluctuations in the plasma give
+rise to acoustic sound waves. These sound waves are driven by radiation pressure and propagate at a relativistic
+speed. About 400,000 years after the Big Bang, the universe is cool enough for free electrons to be captured
+by protons to form neutral hydrogen atoms. These newly-formed hydrogen atoms do not interact strongly with photons, and,
+as a result, photons decouple from the matter. No longer supported by radiation pressure, the baryon sound waves
+halt, producing density bumps, often called the <strong>baryon acoustic oscillations</strong> (BAOs), at about 150 Mpc detectable in
+the anisotropy of the cosmic microwave background (CMB) and in the distribution of galaxies.</p>
+
+<p>Because BAOs create an excess of galaxies at about 150 Mpc, they can be detected by studying at the large-scale clustering
+of galaxies. To do this, physicists often use the spatial two-point correlation function (TPCF). The TPCF is a
+mathematical tool to contrast between the observed distribution of galaxies and the distribution in which all galaxies
+are uniformly distributed over the observed volume (referred to as the random distribution). It describes the excess
+probability (observed over random) of finding two galaxies separated by some separation variables
+(e.g. distance, angle). With this, BAOs should create a small bump in the spatial TPCF at about 150 Mpc.</p>
+
+<p>KITCAT, short for the Kd-tree Implementation for Two-point Correlation AlgoriThm, is a simple and fast tool to compute
+the 1-D and 2-D spatial TPCF of galaxies. By assuming the random distribution can be separated into angular variables
+(declination and right ascension) and redshift, KITCAT uses convolution of probability distributions to accelerate
+the computation of the TPCF. Thanks to this, KITCAT also allows for a fast and flexible scan over the cosmological
+parameter space.</p>
+
+<p>For more information, refer to <a href="kitcat.pdf" target="_blank">this paper</a> on which KITCAT is based.</p>
 
 <p>KITCAT v2.0.0: <a href="https://github.com/DESI-UR/KITCAT" target="_blank">Github</a>, <a href="https://doi.org/10.5281/zenodo.2640917" target="_blank">Zenodo</a></p>
-
-<p>KITCAT, or the Kd-tree Implementation for Two-point Correlation AlgoriThm, is&hellip;</p>
 
     </div>
 
@@ -619,6 +638,10 @@
   <a class="badge badge-light" href="">Baryon Acoustic Oscillation</a>
   
   <a class="badge badge-light" href="/tags/desi/">DESI</a>
+  
+  <a class="badge badge-light" href="/tags/sdss/">SDSS</a>
+  
+  <a class="badge badge-light" href="/tags/boss/">BOSS</a>
   
 </div>
 
