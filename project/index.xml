@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>DeepClean - A Noise Regression Framework</title>
+      <title>DeepClean</title>
       <link>https://trivnguyen.github.io/project/deepclean/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/project/deepclean/</guid>
-      <description>Using LSTM network to learn and subtract non-linear noise in LIGO detectors.</description>
+      <description>Using LSTM network to learn and subtract non-linear noise in GW detectors.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/project/kitcat/</guid>
-      <description>Calculating the spatial two-point correlation function using k-d tree algorithm.</description>
+      <description>Accelerating the calculation of the galactic two-point correlation function with k-d tree.</description>
     </item>
     
   </channel>
