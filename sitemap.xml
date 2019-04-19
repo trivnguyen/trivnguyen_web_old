@@ -97,12 +97,29 @@
   </url>
   
   <url>
-    <loc>https://trivnguyen.github.io/author/admin/</loc>
+    <loc>https://trivnguyen.github.io/authors/</loc>
+    <lastmod>2019-01-08T00:00:00-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://trivnguyen.github.io/authors/</loc>
+    <loc>https://trivnguyen.github.io/talk/aas2019/</loc>
+    <lastmod>2019-01-08T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/talk/</loc>
+    <lastmod>2019-01-08T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/authors/tri-v-nguyen/</loc>
+    <lastmod>2019-01-08T00:00:00-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/author/admin/</loc>
   </url>
   
   <url>
@@ -126,10 +143,6 @@
   
   <url>
     <loc>https://trivnguyen.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://trivnguyen.github.io/talk/</loc>
   </url>
   
   <url>
