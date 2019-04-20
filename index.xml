@@ -34,9 +34,9 @@ due to a number of noise sources, the detectors are currently operating below th
 These sources are instrumental and environmental effects, each coupling to the signal via a different
 (both linear and non-linear) mechanism.&lt;/p&gt;
 
-&lt;p&gt;LIGO currently relies on the Wienter filter to remove noise sources. However, the Wiener filter fails
+&lt;p&gt;LIGO currently relies on the Wiener filter to remove noise sources. However, the Wiener filter fails
 to remove the non-linear contributions. Characterizing these non-linear contributions and removing them
-using standard statistical and signal processing techniques can be challenging if not impossible, because the
+using standard statistical and signal processing techniques can be challenging if not impossible because the
 mechanisms are often complex and involved multiple noise channels. In this study, we use a machine learning
 algorithm called the Long Short-Term Memory neural network to learn and filter out these non-linear noise sources.&lt;/p&gt;
 
@@ -46,8 +46,9 @@ it since. DeepClean, our noise regression framework, is currently being develope
 &lt;a href=&#34;https://www.physics.umn.edu/people/ormiston.html&#34; target=&#34;_blank&#34;&gt;Rich Ormiston&lt;/a&gt;. I developed the Tensorflow frontend/backend
 and the Bayesian hyperparameter framework for DeepClean.&lt;/p&gt;
 
-&lt;p&gt;For my SURF final report, please click &lt;a href=&#34;deepclean.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.
-For DeepClean repository (may required LIGO authentification), please click &lt;a href=&#34;$url_code&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For my SURF final report, please click &lt;a href=&#34;deepclean.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For DeepClean repository (may require LIGO authentification), please click &lt;a href=&#34;$url_code&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -62,7 +63,7 @@ rise to acoustic sound waves. These sound waves are driven by radiation pressure
 speed. About 400,000 years after the Big Bang, the universe is cool enough for free electrons to be captured
 by protons to form neutral hydrogen atoms. These newly-formed hydrogen atoms do not interact strongly with photons, and,
 as a result, photons decouple from the matter. No longer supported by radiation pressure, the baryon sound waves
-halt, producing density bumps, often called the &lt;strong&gt;baryon acoustic oscillations&lt;/strong&gt; (BAOs), at about 150 Mpc detectable in
+halt, producing density bumps, often called the baryon acoustic oscillations (BAOs), at about 150 Mpc detectable in
 the anisotropy of the cosmic microwave background (CMB) and in the distribution of galaxies.&lt;/p&gt;
 
 &lt;p&gt;Because BAOs create an excess of galaxies at about 150 Mpc, they can be detected by studying at the large-scale clustering
