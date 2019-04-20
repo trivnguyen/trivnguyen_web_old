@@ -56,6 +56,22 @@ using standard statistical and signal processing techniques can be challenging i
 mechanisms are often complex and involved multiple noise channels. In this study, we use a machine learning
 algorithm called the Long Short-Term Memory neural network to learn and filter out these non-linear noise sources.&lt;/p&gt;
 
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;lstm.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Schematic of an LSTM layer. &lt;a href=&#34;https://colah.github.io/posts/2015-08-Understanding-LSTMs/&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
 &lt;p&gt;I first got involved in this project as a SURF student at LIGO Caltech in the summer of 2018, and have been continued
 it since. DeepClean, our noise regression framework, is currently being developed by me, my mentor
 &lt;a href=&#34;https://www.michaelwcoughlin.com/&#34; target=&#34;_blank&#34;&gt;Michael Coughlin&lt;/a&gt;, and co-mentor
