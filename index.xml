@@ -44,7 +44,7 @@ These sources are instrumental and environmental effects, each coupling to the s
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;LIGO Livingston Noise Budget. &lt;a href=&#34;https://www.ligo.org/science/Publication-O1Noise/index.php&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/h4&gt;
+  &lt;h4&gt;LIGO Livingston Noise Budget. &lt;a href=&#34;https://www.ligo.org/science/Publication-O1Noise/index.php&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;.&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -66,7 +66,7 @@ algorithm called the Long Short-Term Memory neural network to learn and filter o
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Schematic of an LSTM layer. &lt;a href=&#34;https://colah.github.io/posts/2015-08-Understanding-LSTMs/&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/h4&gt;
+  &lt;h4&gt;Schematic of an LSTM layer. &lt;a href=&#34;https://colah.github.io/posts/2015-08-Understanding-LSTMs/&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;.&lt;/h4&gt;
   
 &lt;/figcaption&gt;
 
@@ -95,15 +95,47 @@ rise to acoustic sound waves. These sound waves are driven by radiation pressure
 speed. About 400,000 years after the Big Bang, the universe is cool enough for free electrons to be captured
 by protons to form neutral hydrogen atoms. These newly-formed hydrogen atoms do not interact strongly with photons, and,
 as a result, photons decouple from the matter. No longer supported by radiation pressure, the baryon sound waves
-halt, producing density bumps, often called the baryon acoustic oscillations (BAOs), at about 150 Mpc detectable in
+halt, producing density bumps, often called the baryon acoustic oscillations (BAOs), at about $100 h^{-1}Mpc$ detectable in
 the anisotropy of the cosmic microwave background (CMB) and in the distribution of galaxies.&lt;/p&gt;
 
-&lt;p&gt;Because BAOs create an excess of galaxies at about 150 Mpc, they can be detected by studying at the large-scale clustering
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;density_profile.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Evolution of the density profile due to acoustic sound waves in the early universe. &lt;a href=&#34;https://arxiv.org/abs/astro-ph/0604361&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Because BAOs create an excess of galaxies at about $100 h^{-1}Mpc$, they can be detected by studying at the large-scale clustering
 of galaxies. To do this, physicists often use the spatial two-point correlation function (TPCF). The TPCF is a
 mathematical tool to contrast between the observed distribution of galaxies and the distribution in which all galaxies
 are uniformly distributed over the observed volume (referred to as the random distribution). It describes the excess
 probability (observed over random) of finding two galaxies separated by some separation variables
 (e.g. distance, angle). With this, BAOs should create a small bump in the spatial TPCF at about 150 Mpc.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;tpcf.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Evolution of the density profile due to acoustic sound waves in the early universe. &lt;a href=&#34;https://arxiv.org/abs/astro-ph/0604361&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
 
 &lt;p&gt;KITCAT, short for the Kd-tree Implementation for Two-point Correlation AlgoriThm, is a simple and fast tool to compute
 the 1-D and 2-D spatial TPCF of galaxies. By assuming the random distribution can be separated into angular variables
