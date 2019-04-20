@@ -34,6 +34,22 @@ due to a number of noise sources, the detectors are currently operating below th
 These sources are instrumental and environmental effects, each coupling to the signal via a different
 (both linear and non-linear) mechanism.&lt;/p&gt;
 
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;noise_budget.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;LIGO Livingston Noise Budget. &lt;a href=&#34;https://www.ligo.org/science/Publication-O1Noise/index.php&#34; target=&#34;_blank&#34;&gt;Source&lt;/a&gt;&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
 &lt;p&gt;LIGO currently relies on the Wiener filter to remove noise sources. However, the Wiener filter fails
 to remove the non-linear contributions. Characterizing these non-linear contributions and removing them
 using standard statistical and signal processing techniques can be challenging if not impossible because the
