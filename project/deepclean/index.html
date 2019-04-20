@@ -630,9 +630,27 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>This is my project for LIGO SURF Summer 2018.</p>
+      <p>The Laser Interferometer Gravitational-Wave Observatory (LIGO) detects GWs by measuring the
+induced differential arm length between its two perpendicular arms. Since its sensitivity upgrade
+in 2016, LIGO has successfully detected many GW sources from black-hole to neutron-star mergers. However,
+due to a number of noise sources, the detectors are currently operating below their design sensitivity.
+These sources are instrumental and environmental effects, each coupling to the signal via a different
+(both linear and non-linear) mechanism.</p>
 
-<p><strong>Abstract</strong>: We apply long short-term memory (LSTM) neural networks as a time-series regression analysis technique to filter instrumental noises from gravitational-wave detectors at the Laser Interferometer Gravitational-Wave Observatory (LIGO). Unlike traditional neural networks, LSTM networks store and use information from their past inputs, thus robust in handling sequential data like gravitational-wave signals. Once trained, an LSTM network should be able to learn, predict, and subtract both the linear and non-linear noise coupling mechanisms, given there exist a set of witness channels monitoring these noises. The result would improve LIGO&rsquo;s sensitivity, most greatly at the low-frequency limit 20-100 Hz where noise features are expected to be easier to learn, and allow the detection of gravitational-wave sources currently below the noise floor.</p>
+<p>LIGO currently relies on the Wienter filter to remove noise sources. However, the Wiener filter fails
+to remove the non-linear contributions. Characterizing these non-linear contributions and removing them
+using standard statistical and signal processing techniques can be challenging if not impossible, because the
+mechanisms are often complex and involved multiple noise channels. In this study, we use a machine learning
+algorithm called the Long Short-Term Memory neural network to learn and filter out these non-linear noise sources.</p>
+
+<p>I first got involved in this project as a SURF student at LIGO Caltech in the summer of 2018, and have been continued
+it since. DeepClean, our noise regression framework, is currently being developed by me, my mentor
+<a href="https://www.michaelwcoughlin.com/" target="_blank">Michael Coughlin</a>, and co-mentor
+<a href="https://www.physics.umn.edu/people/ormiston.html" target="_blank">Rich Ormiston</a>. I developed the Tensorflow frontend/backend
+and the Bayesian hyperparameter framework for DeepClean.</p>
+
+<p>For my SURF final report, please click <a href="deepclean.pdf" target="_blank">here</a>.
+For DeepClean repository (may required LIGO authentification), please click <a href="$url_code" target="_blank">here</a>.</p>
 
     </div>
 
