@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://trivnguyen.github.io/personal/ligo/</loc>
+    <lastmod>2019-04-19T15:12:07-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/tags/exploring/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/personal/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/personal/places/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/tags/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/tags/traveling/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://trivnguyen.github.io/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://trivnguyen.github.io/tags/advising/</loc>
     <lastmod>2019-04-19T23:12:55-04:00</lastmod>
     <priority>0</priority>
@@ -37,20 +77,14 @@
   </url>
   
   <url>
-    <loc>https://trivnguyen.github.io/tags/</loc>
-    <lastmod>2019-04-19T23:12:55-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://trivnguyen.github.io/authors/tri-nguyen/</loc>
     <lastmod>2019-04-19T23:12:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://trivnguyen.github.io/</loc>
-    <lastmod>2019-04-19T23:12:55-04:00</lastmod>
+    <loc>https://trivnguyen.github.io/tags/ligo/</loc>
+    <lastmod>2019-04-19T15:12:07-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -171,12 +205,6 @@
   </url>
   
   <url>
-    <loc>https://trivnguyen.github.io/tags/ligo/</loc>
-    <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://trivnguyen.github.io/tags/lstm/</loc>
     <lastmod>2019-04-16T00:00:00-04:00</lastmod>
     <priority>0</priority>
@@ -197,6 +225,7 @@
   <url>
     <loc>https://trivnguyen.github.io/project/</loc>
     <lastmod>2019-04-16T00:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -233,10 +262,6 @@
   <url>
     <loc>https://trivnguyen.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://trivnguyen.github.io/personal/</loc>
   </url>
   
   <url>
