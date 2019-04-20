@@ -13,21 +13,21 @@
     
     
     <item>
-      <title>LIGO Livingston 2018</title>
-      <link>https://trivnguyen.github.io/personal/ligo/</link>
-      <pubDate>Fri, 19 Apr 2019 15:12:07 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/personal/ligo/</guid>
-      <description>      </description>
-    </item>
-    
-    <item>
       <title>Some places I have been to</title>
       <link>https://trivnguyen.github.io/personal/places/</link>
       <pubDate>Sat, 20 Apr 2019 14:50:22 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/personal/places/</guid>
       <description>            </description>
+    </item>
+    
+    <item>
+      <title>LIGO Livingston 2018</title>
+      <link>https://trivnguyen.github.io/personal/ligo/</link>
+      <pubDate>Fri, 19 Apr 2019 15:12:07 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/personal/ligo/</guid>
+      <description>      </description>
     </item>
     
   </channel>

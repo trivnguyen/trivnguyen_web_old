@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://trivnguyen.github.io/personal/places/</loc>
+    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://trivnguyen.github.io/personal/ligo/</loc>
     <lastmod>2019-04-19T15:12:07-04:00</lastmod>
   </url>
@@ -17,11 +22,6 @@
     <loc>https://trivnguyen.github.io/personal/</loc>
     <lastmod>2019-04-20T14:50:22-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://trivnguyen.github.io/personal/places/</loc>
-    <lastmod>2019-04-20T14:50:22-04:00</lastmod>
   </url>
   
   <url>
