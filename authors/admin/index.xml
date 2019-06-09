@@ -18,7 +18,7 @@
       
       <guid>https://trivnguyen.github.io/author/admin/</guid>
       <description>I&amp;rsquo;m a Physics PhD student at the Massachusetts Institute of Technology. My primary research interests are gravitational waves and multimessenger astronomy, including but not limited to:
- Detect and characterize GW sources Electromagnetic follow-up of GW sources Understand GW detectors  At MIT, I work with Dr. Erik Katsavounidis and Prof. Salvatore Vitale at the LIGO Data Analysis group. As a member of the LIGO collaboration, I&amp;rsquo;ve also worked with Dr.</description>
+ Detect and characterize GW sources EM follow-up of GW sources Understand GW detectors  At MIT, I work with Dr. Erik Katsavounidis to build the alert pipeline for EM follow-up and apply machine learing (ML) to detect and characterize the properties of GW sources.</description>
     </item>
     
   </channel>
