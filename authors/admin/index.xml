@@ -17,8 +17,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://trivnguyen.github.io/author/admin/</guid>
-      <description>I&amp;rsquo;m a Physics PhD student at the Massachusetts Institute of Technology. My primary research interests are gravitational waves and multimessenger astronomy, including but not limited to:
- Detect and characterize GW sources EM follow-up of GW sources Understand GW detectors  At MIT, I work with Dr. Erik Katsavounidis to build the alert pipeline for EM follow-up and apply machine learing (ML) to detect and characterize the properties of GW sources.</description>
+      <description>Hello! I am a PhD student in astrophysics at the Massachusetts Institute of Technology. I am interested in developing and applying Bayesian statistical technique and machine learning in gravitational-wave and observational astronomy.
+At MIT, I work with Dr. Erik Katsavounidis on detection and characterization of GW sources using convolutional neural networks. I also work with Dr. Michael Coughlin on modelling and subtracting non-linear noise in GW detectors with neural networks.</description>
     </item>
     
   </channel>
