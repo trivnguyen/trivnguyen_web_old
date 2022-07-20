@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caltech SURF on Tri V Nguyen</title>
@@ -6,20 +6,19 @@
     <description>Recent content in Caltech SURF on Tri V Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 15:12:07 -0400</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/caltech-surf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>LIGO Livingston 2018</title>
-      <link>https://trivnguyen.github.io/personal/ligo/</link>
-      <pubDate>Fri, 19 Apr 2019 15:12:07 -0400</pubDate>
+      <title>Deep Cleaning for Gravitational-wave Data</title>
+      <link>https://trivnguyen.github.io/talk/fastml/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://trivnguyen.github.io/personal/ligo/</guid>
-      <description>A trip to LIGO Livingston sponsored by LIGO SURF 2018. Best. Summer. Ever!
-     </description>
+      <guid>https://trivnguyen.github.io/talk/fastml/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -29,15 +28,6 @@
       
       <guid>https://trivnguyen.github.io/project/deepclean/</guid>
       <description>Using LSTM network to learn and subtract non-linear noise in GW detectors.</description>
-    </item>
-    
-    <item>
-      <title>Extending the reach of gravitational-wave detectors with machine learning</title>
-      <link>https://trivnguyen.github.io/talk/aas2019/</link>
-      <pubDate>Fri, 18 Jan 2019 10:40:00 -0500</pubDate>
-      
-      <guid>https://trivnguyen.github.io/talk/aas2019/</guid>
-      <description></description>
     </item>
     
   </channel>

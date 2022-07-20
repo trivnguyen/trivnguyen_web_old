@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tri V Nguyen</title>
@@ -6,126 +6,72 @@
     <description>Recent content in Tags on Tri V Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 20 Apr 2019 14:50:22 -0400</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Exploring</title>
-      <link>https://trivnguyen.github.io/tags/exploring/</link>
-      <pubDate>Sat, 20 Apr 2019 14:50:22 -0400</pubDate>
+      <title>AAS</title>
+      <link>https://trivnguyen.github.io/tags/aas/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://trivnguyen.github.io/tags/exploring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Traveling</title>
-      <link>https://trivnguyen.github.io/tags/traveling/</link>
-      <pubDate>Sat, 20 Apr 2019 14:50:22 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/traveling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Advising</title>
-      <link>https://trivnguyen.github.io/tags/advising/</link>
-      <pubDate>Fri, 19 Apr 2019 23:12:55 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/advising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Profesional Development</title>
-      <link>https://trivnguyen.github.io/tags/profesional-development/</link>
-      <pubDate>Fri, 19 Apr 2019 23:12:55 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/profesional-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>REU</title>
-      <link>https://trivnguyen.github.io/tags/reu/</link>
-      <pubDate>Fri, 19 Apr 2019 23:12:55 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/reu/</guid>
+      <guid>https://trivnguyen.github.io/tags/aas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caltech SURF</title>
       <link>https://trivnguyen.github.io/tags/caltech-surf/</link>
-      <pubDate>Fri, 19 Apr 2019 15:12:07 -0400</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/caltech-surf/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Detector Characterization</title>
+      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Waves</title>
+      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LIGO</title>
       <link>https://trivnguyen.github.io/tags/ligo/</link>
-      <pubDate>Fri, 19 Apr 2019 15:12:07 -0400</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/ligo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Axion</title>
-      <link>https://trivnguyen.github.io/tags/axion/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      <title>LSTM</title>
+      <link>https://trivnguyen.github.io/tags/lstm/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://trivnguyen.github.io/tags/axion/</guid>
+      <guid>https://trivnguyen.github.io/tags/lstm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bayesian Statistics</title>
-      <link>https://trivnguyen.github.io/tags/bayesian-statistics/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      <title>Machine Learning</title>
+      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
-      <guid>https://trivnguyen.github.io/tags/bayesian-statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High-energy Astrophysics</title>
-      <link>https://trivnguyen.github.io/tags/high-energy-astrophysics/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/high-energy-astrophysics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>IceCube</title>
-      <link>https://trivnguyen.github.io/tags/icecube/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/icecube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neutrino</title>
-      <link>https://trivnguyen.github.io/tags/neutrino/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/neutrino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supernova</title>
-      <link>https://trivnguyen.github.io/tags/supernova/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/supernova/</guid>
+      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -139,20 +85,20 @@
     </item>
     
     <item>
-      <title>BOSS</title>
-      <link>https://trivnguyen.github.io/tags/boss/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/boss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Baryon Acoustic Oscillation</title>
       <link>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BOSS</title>
+      <link>https://trivnguyen.github.io/tags/boss/</link>
+      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/boss/</guid>
       <description></description>
     </item>
     
@@ -175,47 +121,11 @@
     </item>
     
     <item>
-      <title>Detector Characterization</title>
-      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravitational Waves</title>
-      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LSTM</title>
-      <link>https://trivnguyen.github.io/tags/lstm/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/lstm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Large-scale Structure</title>
       <link>https://trivnguyen.github.io/tags/large-scale-structure/</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/large-scale-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -234,15 +144,6 @@
       <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/two-point-correlation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AAS</title>
-      <link>https://trivnguyen.github.io/tags/aas/</link>
-      <pubDate>Fri, 18 Jan 2019 10:40:00 -0500</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/aas/</guid>
       <description></description>
     </item>
     

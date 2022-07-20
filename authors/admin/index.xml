@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>admin on Tri V Nguyen</title>
@@ -6,7 +6,7 @@
     <description>Recent content in admin on Tri V Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
+    <copyright>&amp;copy; {year}</copyright>
     
 	<atom:link href="https://trivnguyen.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://trivnguyen.github.io/author/admin/</guid>
-      <description>Hello! I am a PhD student in astrophysics at the Massachusetts Institute of Technology. I am interested in developing and applying Bayesian statistical technique and machine learning to gravitational-wave and observational astronomy.
-At MIT, I work with Dr. Erik Katsavounidis on detection and characterization of GW sources using convolutional neural networks. I also work with Dr. Michael Coughlin on modelling and subtracting non-linear noise in GW detectors with neural networks.</description>
+      <description>Hello! I&amp;rsquo;m a fourth-year Ph.D. candidate in Astrophysics at the MIT Kavli Institute. I&amp;rsquo;m interested understanding the galaxy formation process and the dark matter density profiles of galaxies.
+At MIT, I&amp;rsquo;m working with Prof. Lina Necib on various projects:
+ Applying graph neural network on infer the dark matter density profiles of dwarf galaxies from their stellar kinematics Using kinematics of accreted stars to characterize the galaxy accretion history of the Milky Way Constructing synthetic Gaia DR3 surveys from Milky Way-like galaxies in the FIRE simulation  In the first two year of my Ph.</description>
     </item>
     
   </channel>

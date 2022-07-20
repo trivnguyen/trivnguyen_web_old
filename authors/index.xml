@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Tri V Nguyen</title>
@@ -6,27 +6,144 @@
     <description>Recent content in Authors on Tri V Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 23:12:55 -0400</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 22 Jul 2022 17:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tri Nguyen</title>
+      <title>**Tri Nguyen**</title>
       <link>https://trivnguyen.github.io/authors/tri-nguyen/</link>
-      <pubDate>Fri, 19 Apr 2019 23:12:55 -0400</pubDate>
+      <pubDate>Fri, 22 Jul 2022 17:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/authors/tri-nguyen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Segev BenZvi</title>
-      <link>https://trivnguyen.github.io/authors/segev-benzvi/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      <title>Lina Necib</title>
+      <link>https://trivnguyen.github.io/authors/lina-necib/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://trivnguyen.github.io/authors/segev-benzvi/</guid>
+      <guid>https://trivnguyen.github.io/authors/lina-necib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Siddharth Mishra-Sharma</title>
+      <link>https://trivnguyen.github.io/authors/siddharth-mishra-sharma/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/siddharth-mishra-sharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alec Gunny</title>
+      <link>https://trivnguyen.github.io/authors/alec-gunny/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/alec-gunny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burt Holzman</title>
+      <link>https://trivnguyen.github.io/authors/burt-holzman/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/burt-holzman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dylan Rankin</title>
+      <link>https://trivnguyen.github.io/authors/dylan-rankin/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/dylan-rankin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erik Katsavounidis</title>
+      <link>https://trivnguyen.github.io/authors/erik-katsavounidis/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/erik-katsavounidis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey Krupa</title>
+      <link>https://trivnguyen.github.io/authors/jeffrey-krupa/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/jeffrey-krupa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Coughlin</title>
+      <link>https://trivnguyen.github.io/authors/michael-coughlin/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/michael-coughlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muhammed Saleem</title>
+      <link>https://trivnguyen.github.io/authors/muhammed-saleem/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/muhammed-saleem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philip Harris</title>
+      <link>https://trivnguyen.github.io/authors/philip-harris/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/philip-harris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Timm</title>
+      <link>https://trivnguyen.github.io/authors/steven-timm/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/steven-timm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration, including **Tri Nguyen**</title>
+      <link>https://trivnguyen.github.io/authors/the-ligo-scientific-collaboration-the-virgo-collaboration-the-kagra-collaboration-including-tri-nguyen/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/the-ligo-scientific-collaboration-the-virgo-collaboration-the-kagra-collaboration-including-tri-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rana X. Adhikari</title>
+      <link>https://trivnguyen.github.io/authors/rana-x.-adhikari/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/rana-x.-adhikari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rich Ormiston</title>
+      <link>https://trivnguyen.github.io/authors/rich-ormiston/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/authors/rich-ormiston/</guid>
       <description></description>
     </item>
     

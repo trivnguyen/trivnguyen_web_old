@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Tri V Nguyen</title>
@@ -6,18 +6,45 @@
     <description>Recent content in Publications on Tri V Nguyen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 13:14:25 -0400</lastBuildDate>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Estimating the Sensitivity of IceCube to Signatures of Axion Production in a Galactic Supernova</title>
-      <link>https://trivnguyen.github.io/publication/icrc_axion/</link>
-      <pubDate>Fri, 19 Apr 2019 13:14:25 -0400</pubDate>
+      <title>Uncovering dark matter density profiles in dwarf galaxies with graph neural networks</title>
+      <link>https://trivnguyen.github.io/publication/dsph_gnn/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 -0400</pubDate>
       
-      <guid>https://trivnguyen.github.io/publication/icrc_axion/</guid>
+      <guid>https://trivnguyen.github.io/publication/dsph_gnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware-accelerated inference for real-time gravitational-wave astronomy</title>
+      <link>https://trivnguyen.github.io/publication/iias/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/publication/iias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run</title>
+      <link>https://trivnguyen.github.io/publication/gwtc/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 -0500</pubDate>
+      
+      <guid>https://trivnguyen.github.io/publication/gwtc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise reduction in gravitational-wave data via deep learning</title>
+      <link>https://trivnguyen.github.io/publication/deepclean/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/publication/deepclean/</guid>
       <description></description>
     </item>
     
