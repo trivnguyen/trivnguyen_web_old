@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/gravitational-waves/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>DeepClean</title>
-      <link>https://trivnguyen.github.io/project/deepclean/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/project/deepclean/</guid>
-      <description>Using convolutional neural network to subtract non-linear noise in GW detectors</description>
-    </item>
     
     <item>
       <title>Deep Cleaning for Gravitational-wave Data</title>

@@ -21,5 +21,14 @@
       <description>Constructing Gaia DR3 synthetic surveys from FIRE-2 simulations</description>
     </item>
     
+    <item>
+      <title>Merger History of the Milky Way</title>
+      <link>https://trivnguyen.github.io/project/merger_ml/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/project/merger_ml/</guid>
+      <description>Understanding the merger history of the Milky Way using accreted stars</description>
+    </item>
+    
   </channel>
 </rss>

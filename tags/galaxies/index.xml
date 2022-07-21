@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxies on Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/tags/galaxies/</link>
+    <description>Recent content in Galaxies on Tri V Nguyen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year}</copyright>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://trivnguyen.github.io/tags/galaxies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dark Matter Density Profiles in Dwarf Galaxies</title>
+      <link>https://trivnguyen.github.io/project/dsph_gnn/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/project/dsph_gnn/</guid>
+      <description>Uncovering the dark matter density profiles in dwarf galaxies with graph neural networks</description>
+    </item>
+    
+  </channel>
+</rss>

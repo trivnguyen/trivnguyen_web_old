@@ -176,6 +176,12 @@
   
     <url>
     
+      <loc>https://trivnguyen.github.io/tags/galaxies/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://trivnguyen.github.io/tags/graph-neural-network/</loc>
       <lastmod>2020-07-22T00:00:00-04:00</lastmod>
     </url>
@@ -254,12 +260,6 @@
   
     <url>
     
-      <loc>https://trivnguyen.github.io/tags/autoencoder/</loc>
-      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://trivnguyen.github.io/project/deepclean/</loc>
       <lastmod>2020-07-20T00:00:00-04:00</lastmod>
     </url>
@@ -272,7 +272,7 @@
   
     <url>
     
-      <loc>https://trivnguyen.github.io/tags/gravitational-waves/</loc>
+      <loc>https://trivnguyen.github.io/tags/gravitational-wave/</loc>
       <lastmod>2020-07-20T00:00:00-04:00</lastmod>
     </url>
   
@@ -315,6 +315,12 @@
     <url>
     
       <loc>https://trivnguyen.github.io/talk/fastml/</loc>
+      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/gravitational-waves/</loc>
       <lastmod>2019-09-01T00:00:00-04:00</lastmod>
     </url>
   
