@@ -21,14 +21,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>DeepClean</title>
-      <link>https://trivnguyen.github.io/project/deepclean/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/project/deepclean/</guid>
-      <description>Using LSTM network to learn and subtract non-linear noise in GW detectors.</description>
-    </item>
-    
   </channel>
 </rss>

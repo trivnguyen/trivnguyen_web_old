@@ -158,6 +158,132 @@
   
     <url>
     
+      <loc>https://trivnguyen.github.io/tags/dark-matter/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/project/dsph_gnn/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/dwarf-galaxies/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/graph-neural-network/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/machine-learning/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/project/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/</loc>
+      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/accreted-stellar-structure/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/project/ananke/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/fire/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/gaia/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/galaxy-formation/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/galaxy-merger/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/project/merger_ml/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/milky-way/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/simulation/</loc>
+      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/autoencoder/</loc>
+      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/project/deepclean/</loc>
+      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/detector-characterization/</loc>
+      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/gravitational-waves/</loc>
+      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
+      <loc>https://trivnguyen.github.io/tags/ligo/</loc>
+      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
+    </url>
+  
+    <url>
+    
       <loc>https://trivnguyen.github.io/publication/deepclean/</loc>
       <lastmod>2020-07-17T00:00:00-04:00</lastmod>
     </url>
@@ -194,104 +320,8 @@
   
     <url>
     
-      <loc>https://trivnguyen.github.io/tags/detector-characterization/</loc>
-      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/gravitational-waves/</loc>
-      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/ligo/</loc>
-      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
       <loc>https://trivnguyen.github.io/tags/lstm/</loc>
       <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/machine-learning/</loc>
-      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/</loc>
-      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/algorithm/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/boss/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/cosmology/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/deepclean/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/desi/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/kitcat/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/large-scale-structure/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/sdss/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/two-point-correlation/</loc>
-      <lastmod>2019-04-16T00:00:00-04:00</lastmod>
     </url>
   
     <url>

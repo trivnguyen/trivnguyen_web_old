@@ -7,10 +7,145 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dark Matter</title>
+      <link>https://trivnguyen.github.io/tags/dark-matter/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/dark-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dwarf Galaxies</title>
+      <link>https://trivnguyen.github.io/tags/dwarf-galaxies/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/dwarf-galaxies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Network</title>
+      <link>https://trivnguyen.github.io/tags/graph-neural-network/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/graph-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accreted Stellar Structure</title>
+      <link>https://trivnguyen.github.io/tags/accreted-stellar-structure/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/accreted-stellar-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FIRE</title>
+      <link>https://trivnguyen.github.io/tags/fire/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/fire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaia</title>
+      <link>https://trivnguyen.github.io/tags/gaia/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/gaia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy Formation</title>
+      <link>https://trivnguyen.github.io/tags/galaxy-formation/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/galaxy-formation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galaxy Merger</title>
+      <link>https://trivnguyen.github.io/tags/galaxy-merger/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/galaxy-merger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Milky Way</title>
+      <link>https://trivnguyen.github.io/tags/milky-way/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/milky-way/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>https://trivnguyen.github.io/tags/simulation/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoencoder</title>
+      <link>https://trivnguyen.github.io/tags/autoencoder/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/autoencoder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detector Characterization</title>
+      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Waves</title>
+      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIGO</title>
+      <link>https://trivnguyen.github.io/tags/ligo/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/ligo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AAS</title>
@@ -31,119 +166,11 @@
     </item>
     
     <item>
-      <title>Detector Characterization</title>
-      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravitational Waves</title>
-      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIGO</title>
-      <link>https://trivnguyen.github.io/tags/ligo/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/ligo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>LSTM</title>
       <link>https://trivnguyen.github.io/tags/lstm/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/lstm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>https://trivnguyen.github.io/tags/algorithm/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/algorithm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Baryon Acoustic Oscillation</title>
-      <link>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/baryon-acoustic-oscillation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOSS</title>
-      <link>https://trivnguyen.github.io/tags/boss/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/boss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cosmology</title>
-      <link>https://trivnguyen.github.io/tags/cosmology/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/cosmology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DESI</title>
-      <link>https://trivnguyen.github.io/tags/desi/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/desi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Large-scale Structure</title>
-      <link>https://trivnguyen.github.io/tags/large-scale-structure/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/large-scale-structure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SDSS</title>
-      <link>https://trivnguyen.github.io/tags/sdss/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/sdss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two-point Correlation</title>
-      <link>https://trivnguyen.github.io/tags/two-point-correlation/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/two-point-correlation/</guid>
       <description></description>
     </item>
     

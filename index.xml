@@ -10,7 +10,7 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Talks</title>
       <link>https://trivnguyen.github.io/talk/</link>
       <pubDate>Fri, 22 Jul 2022 17:00:00 -0400</pubDate>
       
@@ -30,7 +30,7 @@
     <item>
       <title>Projects</title>
       <link>https://trivnguyen.github.io/project/</link>
-      <pubDate>Tue, 16 Apr 2019 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/project/</guid>
       <description></description>
