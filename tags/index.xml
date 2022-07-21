@@ -7,10 +7,82 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AAS</title>
+      <link>https://trivnguyen.github.io/tags/aas/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/aas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caltech SURF</title>
+      <link>https://trivnguyen.github.io/tags/caltech-surf/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/caltech-surf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detector Characterization</title>
+      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Wave</title>
+      <link>https://trivnguyen.github.io/tags/gravitational-wave/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/gravitational-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gravitational Waves</title>
+      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LIGO</title>
+      <link>https://trivnguyen.github.io/tags/ligo/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/ligo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LSTM</title>
+      <link>https://trivnguyen.github.io/tags/lstm/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/lstm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dark Matter</title>
@@ -45,15 +117,6 @@
       <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/graph-neural-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://trivnguyen.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -117,69 +180,6 @@
       <pubDate>Tue, 21 Jul 2020 00:00:00 -0400</pubDate>
       
       <guid>https://trivnguyen.github.io/tags/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detector Characterization</title>
-      <link>https://trivnguyen.github.io/tags/detector-characterization/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/detector-characterization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravitational Wave</title>
-      <link>https://trivnguyen.github.io/tags/gravitational-wave/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/gravitational-wave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LIGO</title>
-      <link>https://trivnguyen.github.io/tags/ligo/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/ligo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AAS</title>
-      <link>https://trivnguyen.github.io/tags/aas/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/aas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Caltech SURF</title>
-      <link>https://trivnguyen.github.io/tags/caltech-surf/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/caltech-surf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gravitational Waves</title>
-      <link>https://trivnguyen.github.io/tags/gravitational-waves/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/gravitational-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LSTM</title>
-      <link>https://trivnguyen.github.io/tags/lstm/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/tags/lstm/</guid>
       <description></description>
     </item>
     

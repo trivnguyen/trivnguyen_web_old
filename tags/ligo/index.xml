@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://trivnguyen.github.io/tags/ligo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DeepClean: non-linear noise regression in gravitational-wave detectors with machine learning</title>
+      <link>https://trivnguyen.github.io/talk/ncsa/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 -0400</pubDate>
+      
+      <guid>https://trivnguyen.github.io/talk/ncsa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DeepClean</title>
