@@ -61,10 +61,10 @@
 &lt;figure  id=&#34;figure-an-example-posterior-distribution-of-the-dark-matter-parameters-and-the-light-profile-parameters-as-predicted-by-our-method&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;An example posterior distribution of the dark matter parameters and the light profile parameters as predicted by our method.&#34; srcset=&#34;
-               /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_697f578b9e32913f164b9d2adc024e26.webp 400w,
+               /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_2985c602b341af206de07b7ccacfd8be.webp 400w,
                /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_da8fac182621866bacfd9881a563c1ae.webp 760w,
                /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_697f578b9e32913f164b9d2adc024e26.webp&#34;
+               src=&#34;https://example.com/project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_2985c602b341af206de07b7ccacfd8be.webp&#34;
                width=&#34;748&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -260,7 +260,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-871394265&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-438571629&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -270,7 +270,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-871394265&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-438571629&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
