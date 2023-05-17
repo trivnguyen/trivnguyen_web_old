@@ -30,11 +30,23 @@
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/project/florah/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/gaia/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/generative-models/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/</loc>
+    <lastmod>2023-05-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/recurrent-neural-networks/</loc>
     <lastmod>2023-05-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
