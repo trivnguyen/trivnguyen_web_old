@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Generative Models | Academic</title>
-    <link>https://example.com/tag/generative-models/</link>
-      <atom:link href="https://example.com/tag/generative-models/index.xml" rel="self" type="application/rss+xml" />
+    <title>Generative Models | Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/tag/generative-models/</link>
+      <atom:link href="https://trivnguyen.github.io/tag/generative-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Generative Models</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu84f51b40abcd7fb8c0597f408172814f_1165793_512x512_fill_lanczos_center_3.png</url>
+      <url>https://trivnguyen.github.io/media/icon_hu84f51b40abcd7fb8c0597f408172814f_1165793_512x512_fill_lanczos_center_3.png</url>
       <title>Generative Models</title>
-      <link>https://example.com/tag/generative-models/</link>
+      <link>https://trivnguyen.github.io/tag/generative-models/</link>
     </image>
     
     <item>
       <title>FloRAH: A deep generative model for assembly histories of dark matter halos</title>
-      <link>https://example.com/project/florah/</link>
+      <link>https://trivnguyen.github.io/project/florah/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/florah/</guid>
+      <guid>https://trivnguyen.github.io/project/florah/</guid>
       <description></description>
     </item>
     

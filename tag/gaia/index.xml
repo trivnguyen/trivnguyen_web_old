@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gaia | Academic</title>
-    <link>https://example.com/tag/gaia/</link>
-      <atom:link href="https://example.com/tag/gaia/index.xml" rel="self" type="application/rss+xml" />
+    <title>Gaia | Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/tag/gaia/</link>
+      <atom:link href="https://trivnguyen.github.io/tag/gaia/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu84f51b40abcd7fb8c0597f408172814f_1165793_512x512_fill_lanczos_center_3.png</url>
+      <url>https://trivnguyen.github.io/media/icon_hu84f51b40abcd7fb8c0597f408172814f_1165793_512x512_fill_lanczos_center_3.png</url>
       <title>Gaia</title>
-      <link>https://example.com/tag/gaia/</link>
+      <link>https://trivnguyen.github.io/tag/gaia/</link>
     </image>
     
     <item>
       <title>Ananke: Synthetic Gaia DR3 surveys</title>
-      <link>https://example.com/project/ananke/</link>
+      <link>https://trivnguyen.github.io/project/ananke/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ananke/</guid>
+      <guid>https://trivnguyen.github.io/project/ananke/</guid>
       <description></description>
     </item>
     

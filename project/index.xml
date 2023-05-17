@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
-    <link>https://example.com/project/</link>
-      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/project/</link>
+      <atom:link href="https://trivnguyen.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu84f51b40abcd7fb8c0597f408172814f_1165793_512x512_fill_lanczos_center_3.png</url>
+      <url>https://trivnguyen.github.io/media/icon_hu84f51b40abcd7fb8c0597f408172814f_1165793_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://example.com/project/</link>
+      <link>https://trivnguyen.github.io/project/</link>
     </image>
     
     <item>
       <title>Ananke: Synthetic Gaia DR3 surveys</title>
-      <link>https://example.com/project/ananke/</link>
+      <link>https://trivnguyen.github.io/project/ananke/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/ananke/</guid>
+      <guid>https://trivnguyen.github.io/project/ananke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark Matter Density Profiles in Dwarf Galaxies</title>
-      <link>https://example.com/project/jeans_gnn/</link>
+      <link>https://trivnguyen.github.io/project/jeans_gnn/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/jeans_gnn/</guid>
+      <guid>https://trivnguyen.github.io/project/jeans_gnn/</guid>
       <description>&lt;p&gt;Dwarf galaxies are compact, dark matter-dominated galaxies that are often found within the Milky Way. Due to their minimal amount of visible matter, they serve as ideal testing grounds for detecting dark matter (DM). By understanding the distribution of DM in these galaxies, we can gain insights into the microphysical interactions of DM that influence the formation and evolution of structures in our Universe. However, current observations and analysis techniques, such as Jeans dynamical modeling, have been unable to accurately determine the precise DM density profiles in these systems.&lt;/p&gt;
 &lt;p&gt;One specific puzzle in cosmology is the cusp-core problem, which relates to the inner density profile of DM in dwarf galaxies and whether it exhibits a steep rise known as a cusp or a flattened density referred to as a core. According to N-body simulations based on the Lambda-CDM cosmology, cold DM halos would follow the cuspy Navarro-Frenk-White density profile (NFW) in the absence of baryonic physics. However, recent measurements of stellar dynamics suggest the possibility of core-like density profiles at the centers of these galaxies.&lt;/p&gt;
 &lt;p&gt;In collaboration with &lt;a href=&#34;https://lnecib.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Lina Necib&lt;/a&gt; and &lt;a href=&#34;https://www.smsharma.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Siddharth Mishra-Sharma&lt;/a&gt;, I am involved in the development of a novel approach for inferring the dark matter density profiles of dwarf galaxies by utilizing the observable kinematics of stars bound to these systems through graph-based machine learning techniques. We employ simulated dwarf galaxies from &lt;a href=&#34;https://github.com/maoshenl/StarSampler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StarSampler&lt;/a&gt; as training data, constructing a K-Nearest-Neighbor graph for each galaxy. This graph is then processed by a Chebyshev Convolutional Neural Network to extract its features, which are subsequently used as conditions for a Normalizing Flow. Our method not only enables the prediction of dark matter parameters but also provides posterior distributions for these parameters.&lt;/p&gt;
@@ -52,7 +52,7 @@
                /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_2985c602b341af206de07b7ccacfd8be.webp 400w,
                /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_da8fac182621866bacfd9881a563c1ae.webp 760w,
                /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_2985c602b341af206de07b7ccacfd8be.webp&#34;
+               src=&#34;https://trivnguyen.github.io/project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_2985c602b341af206de07b7ccacfd8be.webp&#34;
                width=&#34;748&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,9 +66,9 @@
     
     <item>
       <title>FloRAH: A deep generative model for assembly histories of dark matter halos</title>
-      <link>https://example.com/project/florah/</link>
+      <link>https://trivnguyen.github.io/project/florah/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/florah/</guid>
+      <guid>https://trivnguyen.github.io/project/florah/</guid>
       <description></description>
     </item>
     

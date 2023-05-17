@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
-    <link>https://example.com/publication/preprint/</link>
-      <atom:link href="https://example.com/publication/preprint/index.xml" rel="self" type="application/rss+xml" />
+    <title>Publications | Tri V Nguyen</title>
+    <link>https://trivnguyen.github.io/publication/preprint/</link>
+      <atom:link href="https://trivnguyen.github.io/publication/preprint/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/publication/preprint/featured.jpg</url>
+      <url>https://trivnguyen.github.io/publication/preprint/featured.jpg</url>
       <title>Publications</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://trivnguyen.github.io/publication/preprint/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://trivnguyen.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://trivnguyen.github.io/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
