@@ -34,9 +34,9 @@
     
     <item>
       <title>Dark Matter Density Profiles in Dwarf Galaxies</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://example.com/project/jeans_gnn/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://example.com/project/jeans_gnn/</guid>
       <description>&lt;p&gt;Dwarf galaxies are compact, dark matter-dominated galaxies that are often found within the Milky Way. Due to their minimal amount of visible matter, they serve as ideal testing grounds for detecting dark matter (DM). By understanding the distribution of DM in these galaxies, we can gain insights into the microphysical interactions of DM that influence the formation and evolution of structures in our Universe. However, current observations and analysis techniques, such as Jeans dynamical modeling, have been unable to accurately determine the precise DM density profiles in these systems.&lt;/p&gt;
 &lt;p&gt;One specific puzzle in cosmology is the cusp-core problem, which relates to the inner density profile of DM in dwarf galaxies and whether it exhibits a steep rise known as a cusp or a flattened density referred to as a core. According to N-body simulations based on the Lambda-CDM cosmology, cold DM halos would follow the cuspy Navarro-Frenk-White density profile (NFW) in the absence of baryonic physics. However, recent measurements of stellar dynamics suggest the possibility of core-like density profiles at the centers of these galaxies.&lt;/p&gt;
 &lt;p&gt;In collaboration with &lt;a href=&#34;https://lnecib.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Lina Necib&lt;/a&gt; and &lt;a href=&#34;https://www.smsharma.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Siddharth Mishra-Sharma&lt;/a&gt;, I am involved in the development of a novel approach for inferring the dark matter density profiles of dwarf galaxies by utilizing the observable kinematics of stars bound to these systems through graph-based machine learning techniques. We employ simulated dwarf galaxies from &lt;a href=&#34;https://github.com/maoshenl/StarSampler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;StarSampler&lt;/a&gt; as training data, constructing a K-Nearest-Neighbor graph for each galaxy. This graph is then processed by a Chebyshev Convolutional Neural Network to extract its features, which are subsequently used as conditions for a Normalizing Flow. Our method not only enables the prediction of dark matter parameters but also provides posterior distributions for these parameters.&lt;/p&gt;
@@ -60,7 +60,14 @@
 
 &lt;figure  id=&#34;figure-an-example-posterior-distribution-of-the-dark-matter-parameters-and-the-light-profile-parameters-as-predicted-by-our-method&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;posterior.png&#34; alt=&#34;An example posterior distribution of the dark matter parameters and the light profile parameters as predicted by our method.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;An example posterior distribution of the dark matter parameters and the light profile parameters as predicted by our method.&#34; srcset=&#34;
+               /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_bf5198023c390c1630080371c625d9e0.webp 400w,
+               /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_a2b50b1b4a24e235f400fef0370e7d8c.webp 760w,
+               /project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/project/jeans_gnn/posterior_hu55ea071fc3c9509d0004a139a022d462_1480499_bf5198023c390c1630080371c625d9e0.webp&#34;
+               width=&#34;748&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       An example posterior distribution of the dark matter parameters and the light profile parameters as predicted by our method.
     &lt;/figcaption&gt;&lt;/figure&gt;
@@ -253,7 +260,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-691534728&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-841356279&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -263,7 +270,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-691534728&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-841356279&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
