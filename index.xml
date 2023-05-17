@@ -33,6 +33,14 @@
     </item>
     
     <item>
+      <title>Ananke: Synthetic Gaia DR3 surveys</title>
+      <link>https://example.com/project/ananke/</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/ananke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dark Matter Density Profiles in Dwarf Galaxies</title>
       <link>https://example.com/project/jeans_gnn/</link>
       <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
@@ -260,7 +268,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-296374815&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-293184675&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -270,7 +278,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-296374815&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-293184675&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -746,14 +754,6 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
-      <description></description>
     </item>
     
     <item>
