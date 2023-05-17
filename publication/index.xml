@@ -1,51 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Tri V Nguyen</title>
-    <link>https://trivnguyen.github.io/publication/</link>
-    <description>Recent content in Publications on Tri V Nguyen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year}</copyright>
-    <lastBuildDate>Wed, 20 Jul 2022 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://trivnguyen.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Publications | Academic</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
     
     <item>
-      <title>Uncovering dark matter density profiles in dwarf galaxies with graph neural networks</title>
-      <link>https://trivnguyen.github.io/publication/dsph_gnn/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/publication/dsph_gnn/</guid>
-      <description></description>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Hardware-accelerated inference for real-time gravitational-wave astronomy</title>
-      <link>https://trivnguyen.github.io/publication/iias/</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/publication/iias/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GWTC-3: Compact Binary Coalescences Observed by LIGO and Virgo During the Second Part of the Third Observing Run</title>
-      <link>https://trivnguyen.github.io/publication/gwtc/</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 -0500</pubDate>
-      
-      <guid>https://trivnguyen.github.io/publication/gwtc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Noise reduction in gravitational-wave data via deep learning</title>
-      <link>https://trivnguyen.github.io/publication/deepclean/</link>
-      <pubDate>Fri, 17 Jul 2020 00:00:00 -0400</pubDate>
-      
-      <guid>https://trivnguyen.github.io/publication/deepclean/</guid>
-      <description></description>
+      <title>An example conference paper</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,359 +1,128 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/tri-nguyen/</loc>
-      <lastmod>2022-07-22T17:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/</loc>
-      <lastmod>2022-07-22T17:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/talk/</loc>
-      <lastmod>2022-07-22T17:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/</loc>
-      <lastmod>2022-07-22T17:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/talk/icml2022/</loc>
-      <lastmod>2022-07-22T17:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication_types/1/</loc>
-      <lastmod>2022-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/lina-necib/</loc>
-      <lastmod>2022-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication_types/</loc>
-      <lastmod>2022-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication/</loc>
-      <lastmod>2022-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/siddharth-mishra-sharma/</loc>
-      <lastmod>2022-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication/dsph_gnn/</loc>
-      <lastmod>2022-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication_types/2/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/alec-gunny/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/burt-holzman/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/dylan-rankin/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/erik-katsavounidis/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication/iias/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/jeffrey-krupa/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/michael-coughlin/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/muhammed-saleem/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/philip-harris/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/steven-timm/</loc>
-      <lastmod>2022-05-12T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/talk/iaifi_aimlac/</loc>
-      <lastmod>2022-03-20T10:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication_types/3/</loc>
-      <lastmod>2021-11-17T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication/gwtc/</loc>
-      <lastmod>2021-11-17T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/the-ligo-scientific-collaboration-the-virgo-collaboration-the-kagra-collaboration-including-tri-nguyen/</loc>
-      <lastmod>2021-11-17T00:00:00-05:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/aas/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/caltech-surf/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/talk/ncsa/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/detector-characterization/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/gravitational-wave/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/gravitational-waves/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/ligo/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/lstm/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/machine-learning/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/</loc>
-      <lastmod>2020-10-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/dark-matter/</loc>
-      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/dsph_gnn/</loc>
-      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/dwarf-galaxies/</loc>
-      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/galaxies/</loc>
-      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/graph-neural-network/</loc>
-      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/</loc>
-      <lastmod>2020-07-22T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/accreted-stellar-structure/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/ananke/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/fire/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/gaia/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/galaxy-formation/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/galaxy-merger/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/merger_ml/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/milky-way/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/tags/simulation/</loc>
-      <lastmod>2020-07-21T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/project/deepclean/</loc>
-      <lastmod>2020-07-20T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/publication/deepclean/</loc>
-      <lastmod>2020-07-17T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/rana-x.-adhikari/</loc>
-      <lastmod>2020-07-17T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/rich-ormiston/</loc>
-      <lastmod>2020-07-17T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/talk/fastml/</loc>
-      <lastmod>2019-09-01T00:00:00-04:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/authors/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/author/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://trivnguyen.github.io/categories/</loc>
-    </url>
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/talk/example-talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication-type/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/admin/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
 </urlset>
