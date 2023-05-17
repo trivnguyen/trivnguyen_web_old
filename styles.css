@@ -1,17 +1,17 @@
 
 
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
+
+
+
+
+
+
 /*************************************************
  *  Hugo Academic: an academic theme for Hugo.
  *  Designed by @GeorgeCushen.
@@ -24,7 +24,7 @@
 
 html {
   font-family: 'Merriweather', sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   color: rgba(0,0,0,0.8);
   line-height: 1.65;
 }
@@ -1389,7 +1389,7 @@ article .article-metadata {
 /*************************************************
  *  Accomplishments
  **************************************************/
- 
+
 .card.course {
   margin-bottom: 1rem; /* More compact spacing than Experience widget as typically more items here. */
 }
